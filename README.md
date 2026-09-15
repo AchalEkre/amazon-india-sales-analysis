@@ -42,7 +42,7 @@ The analysis included:
 -Sales by state 
 -Sales by fulfilment method 
 -Top-selling SKUs
--B2B vs non-B2B sales analysi
+-B2B vs non-B2B sales analysis
 -Total orders and quantity analysis
 -Average Order Value (AOV)
 
@@ -62,7 +62,7 @@ An interactive Power BI dashboard was created to visualize Amazon sales performa
 ### Dashboard Visualizations
 
 -Sales by Category
--Momthly Sales Trend
+-Monthly Sales Trend
 -Top States by Sales
 -Sales by Order Status
 -Sales by Fulfilment
