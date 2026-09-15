@@ -30,6 +30,22 @@ The main cleaning steps included:
 -Checked unique orders and order-level data
 -Preapred a cleaned dataset for further analysis and Power BI visualization.
 
+## Analyisis Performed
 
+The cleaned data was analyzed using Python and Pandas to understand sales performance.
+
+The analysis included:
+
+-Total sales analysis
+-Sales by product category
+-Monthly sales trend 
+-Sales by state 
+-Sales by fulfilment method 
+-Top-selling SKUs
+-B2B vs non-B2B sales analysi
+-Total orders and quantity analysis
+-Average Order Value (AOV)
+
+These analyses helped identify the major sales categories, high-performing states, sales trends, and fulfilment patterns.
 
  
