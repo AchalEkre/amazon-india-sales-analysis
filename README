@@ -1,0 +1,11 @@
+# Amazon India Sales Analytics Dashboard
+
+## Project Objective 
+
+To analyze Amazon India e-commerce sales data and identify important sales trends across products, time periods, states, order statuses, and fulfilment methods using python and Power BI.
+
+## Tools Used 
+-Python
+-Pandas
+-Power BI
+-DAX
