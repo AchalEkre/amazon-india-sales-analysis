@@ -80,3 +80,9 @@ An interactive Power BI dashboard was created to visualize Amazon sales performa
 -**Maharashtra** was the top state by sales.
 -**Amazon fulfilment** generated the majority of sales.
 -The analysis provides an overview of sales performance across products, locations, time periods, order statuses, and fulfilment methods.
+
+## Project Files
+
+-[Python Analysis Notebook](DA_Project.ipynb)
+-[Power BI Dashboard](Amazon_Sales_Dashboard.png)
+
