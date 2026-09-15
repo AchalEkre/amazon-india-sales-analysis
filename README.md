@@ -20,15 +20,15 @@ The dataset was cleaned and preapred using Python and Pandas.
 
 The main cleaning steps included:
 
--Checked the dataset sturcture, columns, and data types.
+-Checked the dataset structure, columns, and data types.
 -Checked missing values in important columns.
 -Converted the 'Date' column into datetime format.
 -Created 'Year', 'Month', 'Month_Number', and 'Day' columns from the Date column.
 -Handled missing values in selected columns such as 'Currency', 'Amount', 'Courier Status', and shipping related fields.
 -Investigated missing sales amounts and reviewed their relationship with order status.
 -Checked the quantity ('Qty') distribution and reviewed zero-quantity records.
--Checked unique orders and order-level data
--Preapred a cleaned dataset for further analysis and Power BI visualization.
+-Checked unique orders and order-level data.
+-Prepared a cleaned dataset for further analysis and Power BI visualization.
 
 ## Analyisis Performed
 
