@@ -48,4 +48,28 @@ The analysis included:
 
 These analyses helped identify the major sales categories, high-performing states, sales trends, and fulfilment patterns.
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize Amazon sales performance.
+
+### Key Performance Indicators
+
+- Total Sales: 78.59M                                
+- Total Orders: 120k
+-Total Quantity: 116.649K
+-Average Order Value: 652.88
+
+### Dashboard Visualizations
+
+-Sales by Category
+-Momthly Sales Trend
+-Top States by Sales
+-Sales by Order Status
+-Sales by Fulfilment
+
+### Interactive Filters
+
+-Month
+-Category
+-Fulfilment
  
